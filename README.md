@@ -1,7 +1,7 @@
 ### Scripts for wave boundary layers
 
 <p align="center">
-  <img src="smith77.png" alt="Alt text">
+  <img src="./Smith77.png" alt="Plot of wbl profiles">
 </p>
 
 #### Matlab
