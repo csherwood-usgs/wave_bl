@@ -1,4 +1,8 @@
-Scripts for wave boundary layers
+### Scripts for wave boundary layers
+
+<p align="center">
+  <img src="smith77.png" alt="Alt text">
+</p>
 
 #### Matlab
 The m files repo has code to implement two wave boundary layer models.
