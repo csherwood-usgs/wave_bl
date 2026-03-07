@@ -7,7 +7,7 @@
 #### Matlab
 The m files repo has code to implement two wave boundary layer models.
 
-`smith77.m` is a stand-alone code the implements the analytical model of Smith (1977) using the Bessel functions.    
+`smith77.m` is a stand-alone code that implements the analytical model of Smith (1977) using the Bessel functions.    
 `test_ustwv.m` runs `fw_mw91.m` and `ustwv.m`, which uses tridiagonal solver `sy.m`     
 `fw_mw91.m` is the semi-analytical model implemented in ROMS/COAWST as MW91, from Madsen & Wikramanayake (1991) 
 `ustwv.m` is a numerical solution of equations 9 - 12 in Smith (1977), so it can be adopted for other eddy viscosity profiles.
